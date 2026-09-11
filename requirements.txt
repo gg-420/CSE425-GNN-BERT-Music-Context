@@ -1,0 +1,9 @@
+torch
+torch-geometric
+transformers
+datasets
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
